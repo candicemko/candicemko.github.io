@@ -1,9 +1,8 @@
-body
-{ h1 
- color :rgb { 239;9;128}
+body {
+    background-color: rgb(245, 69, 207);
 }
 
-
-h2 {
-    color : rgb { 239;9;128
+h1 {
+    color: rgb(250, 244, 162);
 }
+
